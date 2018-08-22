@@ -29,7 +29,7 @@ Everything within `settings` will not generate CSS code - this part is dedicated
 
 ```scss
 $base_blue: #007bff;
-$base_green: ##218838;
+$base_green: #218838;
 ```
 
 
