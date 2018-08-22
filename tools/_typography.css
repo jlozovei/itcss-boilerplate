@@ -1,0 +1,9 @@
+/* typos */
+
+@font-face {
+	font-family: 'AwesomeFont';
+	src: url('../fonts/path_to_awesome_font.woff2') format('woff2'),
+		url('../fonts/path_to_awesome_font.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}

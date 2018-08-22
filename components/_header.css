@@ -1,0 +1,17 @@
+/* header component */
+
+.header{
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+.header a{
+	text-transform: uppercase;
+	border: 1px solid transparent;
+	transition: all ease-in-out 380ms;
+}
+
+.header a:hover{ border-color: #2f2f2f; }

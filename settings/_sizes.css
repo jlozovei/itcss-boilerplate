@@ -1,0 +1,6 @@
+/* sizes variables */
+
+$gridWidth: 1024px;
+
+$gridMinWidth: 330px;
+$gridMaxWidth: $gridWidth;

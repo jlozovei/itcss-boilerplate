@@ -1,0 +1,10 @@
+/* list object */
+
+.list{
+	position: relative;
+	margin-bottom: 24px;
+	padding-left: 12px;
+	list-style: square inside;
+}
+
+.list li{ color: #808080; }

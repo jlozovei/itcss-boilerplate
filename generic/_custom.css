@@ -1,0 +1,10 @@
+/* custom generic rules */
+
+body.fixed{ overflow: hidden; }
+
+body.fade{ opacity: .5; }
+
+a{
+	color: $base_blue;
+	text-decoration: none;
+}

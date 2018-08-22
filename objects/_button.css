@@ -1,0 +1,16 @@
+/* button object */
+
+.button{
+	display: inline-block;
+	position: relative;
+	padding: 16px;
+	border: 1px solid transparent;
+	text-align: center;
+	cursor: pointer;
+	border-radius: 2px;
+	font-size: 14px;
+	letter-spacing: 2px;
+	transition: all ease-in-out 380ms;
+}
+
+.button.rounded{ border-radius: 100px; }
