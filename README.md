@@ -27,7 +27,7 @@ So, this is our scenario:
 
 Everything within `settings` will not generate CSS code - this part is dedicated to organize your colors, base sizes and random things that can be stored within a variable and will be used along the entire project.  
 
-```css
+```scss
 $base_blue: #007bff;
 $base_green: ##218838;
 ```
